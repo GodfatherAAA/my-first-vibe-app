@@ -1,0 +1,4 @@
+[Yêu cầu dự án]
+- Ngôn ngữ: React Native (Expo).
+- Phong cách viết code: Chia nhỏ các component giao diện rõ ràng.
+- Khi tôi ra lệnh, hãy tự động hoàn thiện code và giải thích ngắn gọn lỗi nếu có.
